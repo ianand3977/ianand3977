@@ -11,8 +11,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/ianand3977" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ianand3977?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianand3977&label=Profile%20views&color=0e75b6&style=flat" alt="ianand3977" /> </p>
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianand3977&label=Profile%20views&color=0e75b6&style=flat" alt="ianand3977" /> </p>-->
 
 
 <h3 align="left">Languages:</h3>
