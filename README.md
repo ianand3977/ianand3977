@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m interested in Web 3.0
-- 👯 I’m making the world better by PRs 
+- 👯 Checkout my profile at <a href="https://portfolio-anand.vercel.app/" target="_blank" rel="noreferrer">
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: anandgu2002@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
