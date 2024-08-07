@@ -62,6 +62,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/>
   </a>
+  
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" alt="vercel" width="40" height="40"/>
+  </a>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" alt="git" width="40" height="40"/>
+  </a>
+   
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
+  </a>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="render" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <p>
